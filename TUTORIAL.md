@@ -57,7 +57,7 @@ Once you've created an account, go to the admin dashboard and click on "Applicat
  ![Create Integration Screen](static/create-integration-screen.png)
 
 
->You'll need to create a user (if you don't already have one) and assign your new application to them as well. Or you can log in with the credentials you use to log in to your Okta account (the admin user).
+_You'll need to create a user (if you don't already have one) and assign your new application to them as well. Or you can log in with the credentials you use to log in to your Okta account (the admin user)._
 
 ## Install the Okta Sign In WIdget
 
