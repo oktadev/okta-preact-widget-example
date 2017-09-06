@@ -1,0 +1,18 @@
+.profile {
+	min-height: 100%;
+	width: 100%;
+}
+.heading{
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+.key{
+	font-weight: bold;
+	padding-right: .5rem;
+}
+
+.value {
+	font-style: italic;
+	text-indent: 2rem;
+}
